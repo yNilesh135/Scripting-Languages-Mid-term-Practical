@@ -15,4 +15,4 @@ Question 1: 	Design a web page to move the background image with content of the 
 
 
 
-Question 2:  Create an html page named as “navigationframe.html”. Divide the page into two columns of 40%, 60% size. In 40% size call the hyperlink file link.html, and make the page to be get displayed on the other column when the link is clicked.                  (10 marks)
+Question 2:  Create an html page named as “navigationframe.html”. Divide the page into two columns of 40%, 60% size. In 40% size call the hyperlink file "link.html", and make the page to be get displayed on the other column when the link is clicked.                  (10 marks)
